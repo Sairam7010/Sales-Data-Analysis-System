@@ -129,3 +129,16 @@ LinkedIn: https://www.linkedin.com/in/sairam-r-60631b37a
 ## License
 
 This project is developed for educational and portfolio purposes.
+
+## Dashboard Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Sales Analysis
+![Sales Analysis](screenshots/sales_analysis.png)
+
+### CRUD Operations
+![CRUD Operations](screenshots/add_operations.png)
+![CRUD Operations](screenshots/update_operations.png)
+![CRUD Operations](screenshots/delete_operations.png)
