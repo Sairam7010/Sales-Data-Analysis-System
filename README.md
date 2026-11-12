@@ -139,6 +139,4 @@ This project is developed for educational and portfolio purposes.
 ![Sales Analysis](screenshots/sales_analysis.png)
 
 ### CRUD Operations
-![CRUD Operations](screenshots/add_operations.png)
-![CRUD Operations](screenshots/update_operations.png)
-![CRUD Operations](screenshots/delete_operations.png)
+![CRUD Operations](screenshots/crud_operations.png)
